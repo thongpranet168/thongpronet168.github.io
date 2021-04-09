@@ -1,0 +1,46 @@
+.navbar a{
+    background-color: #f8f7fa;
+    font-weight: 500;
+    font-size: 19px;
+   
+}
+
+section{
+    padding-top: 70px;
+}
+.about-area{
+   background-color:#e9eaef;
+   padding: 5%;
+   border: 1px solid #e9eaef;
+   border-radius: 50px;
+  
+}
+.about-area img{
+    border: 1px solid grey;
+    border-radius: 190px;
+}
+.about-area p{
+    font-weight: 500;
+    margin-top: 10px;
+}
+.about-area h1 h4{
+    font-weight: 100;
+    
+}
+.image-about img{
+    
+    width: 10%  !important;
+    flex-wrap: unset !important;
+
+}
+.nav-item a{
+    
+    color:white !important;
+}
+.content{
+    padding-top: 10% ;
+}
+.about{
+    background-color: #e9eaef;
+    padding: 5%;
+}
